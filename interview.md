@@ -1,17 +1,17 @@
 # Interview Report
 # A Dialogue with “National Outstanding Engineer” Award Winner Mr. Zhang Zhiqing
 
-***Reporter: Haozhe (Harry) Yin
-Interviewee: Zhang Zhiqing
+**Reporter**: Haozhe (Harry) Yin
+**Interviewee**: Zhang Zhiqing
 (Zhang Zhiqing, male, born in April 1963, graduated from Northeastern University with a major in Radio Technology. For over thirty years, he has been engaged in research, argumentation, and planning for various models of China’s meteorological satellites. He has served as the chief designer of the ground application system for China’s Fengyun-2 and Fengyun-4 geostationary meteorological satellites. He has made significant contributions to improving China’s meteorological satellite observation capabilities and application levels. On January 7, 2024, he was awarded the “National Outstanding Engineer Award.”)
 
-Interview Location: China Meteorological Administration
-Interview Date: August 15, 2024
+**Interview Location**: China Meteorological Administration
+**Interview Date**: August 15, 2024
 
-II. Purpose of the Interview
+### II. Purpose of the Interview
 I have great admiration for successful individuals and hope to learn from Mr. Zhang Zhiqing’s journey through this interview, deepen my theoretical knowledge, gain a deeper understanding, and comprehend the relationship between growth, talent, and success. I also hope to gain valuable experience from his journey, which will further help and inspire me in preparing for my future university and career paths, as well as motivate myself to pursue my dreams and goals.
  
-III. Content of the Interview
+### III. Content of the Interview
  
 1.	Yin: My name is Haozhe (Harry) Yin, and I am currently studying at Wyoming Seminary in Pennsylvania, USA. I am graduating from high school next year. I saw on television that you recently received the National Outstanding Engineer Award, and I greatly admire you. It is an honor to interview you today. I hope to learn about your experiences, gain insights and advice, and receive guidance for my future development. Could you please start by introducing yourself?
 Zhang: My profession is meteorological satellite remote sensing. The main activities in the meteorological industry are composed of observation, forecasting, and services. My work involves satellite planning and design for weather and meteorological services. I’ve basically been doing this for my entire life.
@@ -52,7 +52,7 @@ Zhang: I think personal factors play a smaller role in our case. My personal tra
 Yin: Thank you very much for accepting my interview. I've gained a lot from our conversation.
 Zhang: I hope you can get into an ideal university.
  
-Section Four: Reflections and Analysis from the Interview
+### Section Four: Reflections and Analysis from the Interview
 1. The Importance of Learning
 Through this interview, I’ve become more aware of the importance of learning. As a high school student, learning is extremely significant for me—not only to acquire knowledge and improve skills, but also as a crucial process for shaping myself and planning for the future. It helps us adapt to changes. To succeed, one must keep learning and constantly improve oneself. In this era of rapid development, knowledge updates quickly, and only by continuous learning can we keep pace and achieve our goals. As Einstein said, "Learning is a never-ending process, and only by continuous learning can one remain competitive." I must cherish this valuable time to learn, explore, and challenge myself to lay a solid foundation for my future.
 
@@ -71,12 +71,10 @@ To do something well, passion alone is not enough—it requires persistence. Per
 6. Importance of Teamwork
 Mr. Zhang emphasized the importance of teamwork. No matter the situation, completing a task or achieving a goal requires collaboration. I believe a team’s strength far exceeds an individual's. When faced with challenges, team members can support each other. Teamwork not only improves efficiency but also enhances quality. Through teamwork, members can share their strengths and work together towards common goals. Effective teamwork is about emphasizing cooperation and support, as no one can solve all problems alone. Teamwork is like a tug-of-war—only when everyone pulls together with a common goal can the team maximize its potential and achieve shared objectives.
 
-Section Five: Interview Summary
+### Section Five: Interview Summary
 As high school comes to an end, this interview provided me with a rare opportunity to explore and learn about the external world, as well as to reflect on myself and grow. I have gained valuable insights and experiences that will pave the way for my future. Learning is crucial for everyone—it is not an endpoint but an ongoing journey. Knowledge is the source of human progress, helping us understand and reshape the world. Only by continuously enhancing learning can we adapt to changes and realize our potential. Furthermore, to accomplish anything, both effort and persistence are necessary. Faced with difficulties and challenges, one must maintain confidence, improve traditional thinking, and innovate. Everyone has limits, and teamwork is essential for success.
 
 Although compared to previous generations, my generation has superior conditions, there are still many unknown fields to explore. I cannot settle for the present; I must take Mr. Zhang as a role model, constantly push myself, and aim for my goals to contribute to social progress.
 
-Section Six: epilogue
+### Section Six: epilogue
 I am especially grateful to Mr. Zhang Zhiqing for his generosity in sharing his knowledge and experience with me during this interview. His wisdom is a valuable asset on my life journey. I will cherish the remaining days of high school, which have witnessed my growth. This interview has been a memorable experience that strengthened my beliefs and dreams and laid the foundation for a new chapter. In the future, I will move forward with courage, always striving for a better version of myself.
-
-
